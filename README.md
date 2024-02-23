@@ -1,0 +1,1 @@
+You can import moonlightblade-meagle-setup.cfg as the control scheme for Moonlight Blade in Bluestacks. It has additional bindings for blocking, rolling, escaping, etc that match the PC client controls.
